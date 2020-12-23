@@ -1,0 +1,244 @@
+                                               ===========================
+                                               ===========================
+                                                 OUTCOME BASED EDUCATION   
+                                               ===========================
+                                               ===========================
+ 
+                                      =============================================================
+                                       PEC has been a provisional member of WA (Washington Accord)
+                                      =============================================================
+
+The Washington Accord is an international accreditation agreement for professional engineering academic degrees,
+between the bodies responsible for accreditation in its signatory countries.
+
+=====================================<<Requirement by WA is a practicing Outcome-Based Education (OBE).>>=========================
+
+Why is International Accreditation Important?
+
+                                                      ========================
+                                                      Benefits to Institutions
+                                                      ========================
+
+=>Accreditation is market-driven and has an international focus. 
+
+=>It assesses the characteristics of an Institution and its programs against a set of criteria established by the governing body.
+ 
+=>Internationally accredited programs are more likely to receive funding to improve the engineering program.
+
+                                                      ==========================
+                                                         Benefits to Students    
+                                                      ==========================
+
+=>Students receive education which is a balance between high academic quality and professional relevance and that the needs of the
+  corporate world are well integrated into programs, activities and processes.
+
+                                                     ==========================
+                                                       Benefits to Employers
+                                                     ==========================
+
+=>Employers are assured that students come from a program where quality and quantity is that of international standards. 
+
+=>It signifies identification of quality of Institutional capabilities, skills and knowledge.
+
+ 
+What Is Outcome Based Engineering Education?
+
+
+                                        =========================================================
+                                           IT’S NOT WHAT WE TEACH, IT’S WHAT STUDENT LEARN     
+                                        =========================================================
+
+=>OBE is an educational process that focuses on what students can do or the qualities they should develop after they are taught.
+
+=>OBE involves the restructuring of curriculum, assessment and reporting practices in education to reflect the achievement of 
+  high order learning and mastery rather than accumulation of course credits.
+
+=>Both structures and curricula are designed to achieve those capabilities or qualities.
+
+=>It requires that the students demonstrate that they have learnt the required skills and content.
+
+                                          ================================================
+                                          Why OBE - Deficiencies of Traditional Education
+                                          ================================================
+
+=>Provides students with a learning environment with little attention to whether or not students ever learn the material.
+
+=>Students are given grades and rankings compared to each other – students become exam oriented or CGPA driven.
+
+=>Graduates are not completely prepared for the workforce.
+
+=>Lack of emphasis on soft skills needed in jobs e.g. communication skills, interpersonal skills, analytical skills, working attitude etc.                
+           
+                                            ===============================================
+                                                    Focus and Benefits of OBE
+                                            ===============================================
+                                                      ===============
+                                                           Focus
+                                                      ===============
+OBE addresses the following key questions:
+
+=>What do we want the students to have or be able to do?
+ 
+=>How can we best help students achieve it? 
+
+=>How will we know whether the students have achieved it?
+
+=>How do we close the loop for further improvement (Continuous Quality Improvement (CQI))?
+                                                        =================
+                                                         Benefits of OBE
+                                                        =================
+=>More directed & coherent curriculum.
+
+=>Graduates will be more “relevant” to industry & other stakeholders
+
+=>Continuous Quality Improvement (CQI) is in place.
+
+
+
+
+=====================================================<<KFUEIT’s Vision and Mission>>======================================================
+                                                                   ==========
+                                                                    Vision
+                                                                   ==========
+
+=>To become a world-class University of Engineering and Information Technology that contributes significantly to the development of regional 
+economy and uplift of local community by becoming a power house of intellectual and human capital generation
+
+                                                                    ==========
+                                                                      Mission
+                                                                    ==========
+
+=>To offer an undergraduate educational experience in Engineering and Information Technology Where:
+
+=>The curriculum and its delivery conform of international standards
+
+=>The students are provided an environment for wholesome development of their personality and creative potential
+
+=>The graduates produced are most sought after by prospective employers
+
+=>To conduct research to solve local and national problems requiring Engineering or Information Technology based solutions
+
+                                                =======================================
+                                                  Program Educational Outcomes (PEOs)
+                                                =======================================
+
+The educational objective of the Computer Engineering Program is to have graduates who after 3 to 5 years of their graduation.
+ 
+=>will have successful careers as computer engineers, consultants and entrepreneurs, nationally and internationally, in the fields related to design,
+  research, development, testing, manufacturing, operations, and service systems.
+
+=>will demonstrate skills of team work, management, communication, and can take leadership roles in their disciplines, organizations, and communities.
+
+=>will be able to pursue advanced degrees and will engage in lifelong learning and professional development
+
+     
+============================================================<<The 12 PLOs>>==========================================================================
+
+
+                                                        PLO1=>Engineering Knowledge
+
+                                                        PLO2=>Problem Analysis
+    
+                                                        PLO3=>Design/Development of Solutions
+
+                                                        PLO4=>Investigation
+
+                                                        PLO5=>Modern Tool Usage
+
+                                                        PLO6=>The Engineer and Society
+
+                                                        PLO7=>Engineering Knowledge
+
+                                                        PLO8=>Problem Analysis
+
+                                                        PLO9=>Design/Development of Solutions
+
+                                                        PLO10=>Investigation
+   
+                                                        PLO11=>Modern Tool Usage
+
+                                                        PLO12=>The Engineer and Society
+======================================================================================================================================================
+
+
+
+
+===================================================<< Mapping of PEOs to PLOs >>=======================================================================
+
+
+______________________________________________________________________________________________________________
+
+                                        Program Educational Objectives                                        
+______________________________________________________________________________________________________________
+                                                                                  PEO-1      PEO-2       PEO-3
+______________________________________________________________________________________________________________
+
+No.PLO's                                Defined Program Learning Outcomes 
+______________________________________________________________________________________________________________
+
+PLO1                                       Engineering Knowledge                      1
+
+PLO2                                       Problem Analysis                           1
+    
+PLO3                                       Design/Development of Solutions            1
+
+PLO4                                       Investigation                              1
+
+PLO5                                       Modern Tool Usage                          1
+
+PLO6                                       The Engineer and Society                            1
+
+PLO7                                       Engineering Knowledge                               1
+
+PLO8                                       Problem Analysis                                    1
+
+PLO9                                       Design/Development of Solutions                     1
+
+PLO10                                      Investigation                                       1
+   
+PLO11                                      Modern Tool Usage                                   1
+
+PLO12                                      The Engineer and Society                                            1
+
+_________________________________________________________________________________________________________________
+
+
+
+=============================================================<<CLOs & the Psychomotor Domain>>========================================================
+
+=>Topic with similar outcomes combined into a single CLO.
+
+=>Mapped to a Psychomotor level in Bloom’s Taxonomy based on the nature of activity
+
+________________________________________________________________________
+    
+                    Mapping of CLO's and PLO's
+________________________________________________________________________
+sr.NO                 Course Learning Outcome                     PLO's
+________________________________________________________________________
+  
+               Be able to recongnized the architecture and
+CLO1           basic components , microprocessors and micro-       PLO3
+               controller and perform I/P operations.
+________________________________________________________________________
+                                                                
+               Be able toNetwork for generating delays using
+               timer and employ the serial port of
+CLO2           microcontroller to  transfer the data                PLO3
+               serially between two data.      
+
+_________________________________________________________________________
+
+                                          
+CLO3           Be able to design to network to interface an 
+               control devices with microcontrollers and           PLO5
+               microprocessors using asembly language and
+               c++
+                                                          
+                                              
+
+
+
+
+
+

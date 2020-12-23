@@ -1,0 +1,39 @@
+#include<iostream>
+#include<string.h>
+#include<conio.h>
+#include<fstream>
+using namespace std;
+class guest{
+	public:
+		void info_OBE(){
+			ifstream help("OBE_Help.txt");
+			string data;
+			while(!help.eof()){
+				getline(help , data);
+				cout<<data<<endl;
+			}	
+		}
+
+};
+/*
+int main(){ 
+string help;
+    cout<<"==================***************************************==================="<<endl;
+	cout<<"If you want to Know about Outcome Base Eduction (OBE) , ";
+	cout<<"Then type help"<<endl;
+	 cout<<"==================***************************************==================="<<endl;
+	cin>>help;
+	if( help == "help" || help== "HELP" ){
+		guest G;
+		cout<<endl<<"=================================================="<<endl;
+		cout<<endl<<"            Welcome               "<<endl;
+		cout<<endl<<"=================================================="<<endl;
+		cout<<endl;
+		G.info_OBE();
+	}
+	
+	
+	
+	
+}
+*/
